@@ -1,0 +1,1 @@
+export const LOAD_SEARCH_DATA = 'LOAD_SEARCH_DATA';
